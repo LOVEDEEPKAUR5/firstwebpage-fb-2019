@@ -1,0 +1,102 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+a{text-decoration: none;}
+a:hover{text-decoration: none;}
+li{list-style: none;}
+.header{
+	width: 100%;
+	height: auto;
+	background:#385898;
+}
+.navbar{
+	width: 100%;
+	height: auto;
+	background:#385898;
+	border-color: none;
+}
+.navbar-inverse {
+	border-color:#385898;
+}
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover
+{
+	background-color:#385898;
+}
+.navbar-toggle{
+	border:1px transparent;
+	margin-top:60px;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form
+{
+	border-color: white;
+}
+.navbar-div img {
+	width:190px;height: 80px; margin-bottom: 7px;
+}
+.nav-item {
+	color: white,background-color:#ccd0d5;outline-style: none;margin-left:10px;margin-top:40px;
+	font-size: 13px;
+}
+.nav-item label{
+	color: white;
+	font-weight: 300;
+}
+.nav-item button{
+	margin-top: 26px;
+	width: 50px;
+	color: white,background-color:#3951db;outline-style:none;
+}
+.nav-item  button:hover{
+	background-color:#385898;color: #FFF;
+}
+.nav-item a{
+	color: #fff;
+	font-weight: bold;
+
+}
+.header-section{
+	width: 100%;
+	height: inherit;
+	color: white;
+	text-align: center;
+}
+.extra-div{
+	margin-top: 0px;
+}
+.extra-div input{
+	border-radius: 4px;padding:5px 10px;border:1px solid grey;height: 30px;color:#bdc7d8 ;
+}
+.extra-div-h{
+	font-size: 36px;color: #333333;height:auto;
+}
+.extra-div-par {
+	
+}
+.extra-div-p1 p{
+	height:auto;width: 100%;color: #1D2129;font-size:17px;
+}
+.select-birth{
+	height: 27px;margin-top:13px;margin-bottom: 7px;
+}
+.extra-div-p2 p{
+	color: #777777; font-size: 11px;margin-top: 7px;
+}
+.extra-div a{
+	color: #1c1e21;text-decoration: none;
+}
+.extra-div button{
+	background-color:#69A74E;color:#FFFFFF;border-radius: 4px;margin:10px 0px;padding: 7px 20px;width:150px;border:1px solid grey;margin-top:0px;
+}
+.extra-div h5{
+	margin-top:13px;color:#666666;font-size: 13px;
+}
+.header-div{
+	width: 100%;
+	height: auto;
+	padding: 50px;
+	margin:0 auto;
+   background-color: #bfc8d9;
+}
+.content p{color:#385898;font-size: 20px;}
+.content img{margin-left:0px;height: 200px;width:400px;text-align: center;}
+
+.extra-div form{padding:5px;outline-style:none;margin-top: 15px;color:#90949c;font: 16px;font-weight: bold;}
+.input_type{width:100%;border-radius: 4px;padding:5px 10px;border:1px solid grey;height: 30px;margin-top: 7px;color:#bdc7d8;}
